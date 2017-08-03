@@ -3,7 +3,7 @@ title: 若水念
 SEOTitle: 黄伟强的博客 | 若水念
 header-img: img/blog_bg_img.jpg
 email: hwq1614@163.com
-description: "持续学习, 主动学习."
+description: "study study......"
 keyword: "若水念,  Blog, 黄伟强的博客, hwqll, 黄伟强, iOS, Apple, iPhone，php，web"
 url: "https://hwqll.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -69,7 +69,7 @@ disqus_username: qiubaiying
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id:5c88811d03225e318c3a6ac9bef2eb79
 
 # Google Analytics
 ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
@@ -93,7 +93,7 @@ service-worker: true
 
 # Friends
 friends: [
-    {
+    /**{
         title: "WY",
         href: "http://zhengwuyang.com"
     },{
@@ -105,5 +105,5 @@ friends: [
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
-    }
+    }*/
 ]
