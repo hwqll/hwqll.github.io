@@ -69,13 +69,7 @@ disqus_username: qiubaiying
 
 # Analytics settings
 # Baidu Analytics
-/**
-ba_track_id:5c88811d03225e318c3a6ac9bef2eb79
 
-# Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: auto
-*/
 
 
 
