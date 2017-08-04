@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      PHP点滴积累
+subtitle:   资料整理
+date:       2017-08-04
+author:     hwq
+header-img: img/post-bg2.jpg
+catalog: true
+tags:
+    - PHP
+---
+## phpStudy集成环境配置虚拟主机域名，这样看起来像个真实项目。
+[phpStudy配置虚拟域名](http://www.cnblogs.com/CHEUNGKAMING/p/5666137.html)
